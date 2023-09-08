@@ -1,4 +1,4 @@
-# Cinema Star - Flutter Movie and TV Show App
+# Cinima Star - Flutter Movie and TV Show App
 
 Cinema Star is a feature-rich Flutter-based mobile application designed for movie enthusiasts. It offers users access to the latest movies and TV shows, a comprehensive search feature, and an immersive entertainment experience. This README.md provides an overview of the app, its key features, technologies used, and future enhancements.
 
